@@ -15,4 +15,5 @@ Day 1: Some Youtube Video's Summary
 
 4. use a neural network to classify digits of MNIST dataset.
 
+Link 1: https://www.datacamp.com/blog/machine-learning-projects-for-all-levels
 ------------------------------------
