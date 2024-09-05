@@ -48,3 +48,6 @@ Read things from books, or if you are going to use video lectures, watch andrew 
 http://DeepLearning.AI Specialization by Andrew Ng (http://deeplearning.ai/courses/deep-l…) 
 
  * http://Fast.ai Practical Deep Learning for Coders (http://course.fast.ai)
+-------------------------------------------------------
+5 Sep  Tired as Hell
+
