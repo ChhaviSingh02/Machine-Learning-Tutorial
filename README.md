@@ -45,9 +45,19 @@ Sentdex
 Note
 Read things from books, or if you are going to use video lectures, watch andrew ng and at the same time try to refer to books. It will take time when you will learn from books, but the level of understanding will be better as compared to video lectures
 
+
+
 http://DeepLearning.AI Specialization by Andrew Ng (http://deeplearning.ai/courses/deep-l…) 
 
  * http://Fast.ai Practical Deep Learning for Coders (http://course.fast.ai)
 -------------------------------------------------------
 5 Sep  Tired as Hell
+
+
+
+
+-------------------------------------------------------
+
+12 SEP UPDATE
+Learning AIML with python Harward course by FreeCode Camp
 
