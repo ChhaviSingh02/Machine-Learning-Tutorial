@@ -61,3 +61,29 @@ http://DeepLearning.AI Specialization by Andrew Ng (http://deeplearning.ai/cours
 12 SEP UPDATE
 Learning AIML with python Harward course by FreeCode Camp
 
+
+------------------------------------------------------
+13 September 
+BFS and DFS in the Maze Puzzle and 15-Puzzle Game:
+
+BFS (Breadth-First Search) and DFS (Depth-First Search) are basic search algorithms used to explore all possible paths in a puzzle.
+However, they are not optimal because they do not necessarily find the shortest or best solution.
+BFS explores all nodes level by level, while DFS explores one branch completely before backtracking, which may lead to unnecessary exploration of inefficient paths.
+Greedy BFS:
+
+Greedy BFS improves over BFS and DFS by introducing a heuristic function to guide the search.
+In the context of the maze puzzle, we can use Manhattan distance as the heuristic.
+Manhattan distance is the distance between the current position and the goal, measured by the number of horizontal and vertical moves, without considering obstacles.
+By using this heuristic, we make decisions that bring us closer to the destination more efficiently, leading to a more optimal traversal compared to standard BFS and DFS.
+A Algorithm:*
+
+While Greedy BFS focuses only on the heuristic (how close we are to the goal), it can still miss the shortest path because it doesn't account for the steps taken so far.
+The A algorithm* improves upon this by combining the heuristic (e.g., Manhattan distance) with the actual cost (number of steps) taken to reach the current position.
+In A*, we calculate the total cost as:
+Total cost
+=
+Steps taken so far
++
+Heuristic (Manhattan distance)
+Total cost=Steps taken so far+Heuristic (Manhattan distance)
+This ensures that we consider both the proximity to the destination and the path taken, making A* more reliable and optimal for finding the shortest path.
