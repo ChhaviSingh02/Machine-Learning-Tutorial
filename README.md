@@ -82,12 +82,19 @@ A* Algorithm:
 
 While Greedy BFS focuses only on the heuristic (how close we are to the goal), it can still miss the shortest path because it doesn't account for the steps taken so far.
 The A algorithm* improves upon this by combining the heuristic (e.g., Manhattan distance) with the actual cost (number of steps) taken to reach the current position.
+
 In A*, we calculate the total cost as:
-
-Total cost
-=
-Steps taken so far Heuristic (Manhattan distance)
-
 Total cost=Steps taken so far+Heuristic (Manhattan distance)
 
 This ensures that we consider both the proximity to the destination and the path taken, making A* more reliable and optimal for finding the shortest path.
+
+--------------------------------------------------
+Sep 14 
+Read a research paper on
+
+# Using Machine Learning Method to Predict Stroke Risk
+ 
+This paper showed how using the traditional machine learning models, especially random forest, are effective in predicting stroke risk. The model’s accuracy and TNR make it a valuable tool for stroke risk assessment, though future work should address dataset size, diversity, and model interpretability.
+
+Other studies on stroke prediction used complex models like the Cox proportional hazards model. These can be hard to implement without specialized knowledge in the field. This research paper proposed that we can use simpler machine learning models, such as logistic regression, K-Nearest Neighbor, and random forest, for stroke prediction. The random forest model stood out for its accuracy and ease of use, proving that simpler models can be highly effective and easier to implement.
+
