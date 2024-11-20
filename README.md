@@ -98,3 +98,14 @@ This paper showed how using the traditional machine learning models, especially 
 
 Other studies on stroke prediction used complex models like the Cox proportional hazards model. These can be hard to implement without specialized knowledge in the field. This research paper proposed that we can use simpler machine learning models, such as logistic regression, K-Nearest Neighbor, and random forest, for stroke prediction. The random forest model stood out for its accuracy and ease of use, proving that simpler models can be highly effective and easier to implement.
 
+
+--------------------------------------
+Brief Back blog log (backblog) ohh funny, comedy king x , queen,
+Prepared a project in ML, vayuAQI
+Because of silly mistake of not observing 75< 150 , loosed almost 5 marks in mid term exam
+Jai Mata Dii
+
+20 Nov Update
+Read the theory of various algorithm of supervised and unsupervised learning,read something about the clustering part.
+
+
