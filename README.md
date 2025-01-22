@@ -108,4 +108,8 @@ Jai Mata Dii
 20 Nov Update
 Read the theory of various algorithm of supervised and unsupervised learning,read something about the clustering part.
 
+--------------------------------------
+22 JAN 2025, 
+created a dataset for QUick commerce
+
 
